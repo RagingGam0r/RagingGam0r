@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raginggam0r" alt="raginggam0r" /> </p>
 
-<!--
-**RagingGam0r/RagingGam0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **RBXtools**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python,C#,Lua,JS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **RagingGam0r#7292**
+
+- ⚡ Fun fact **I dont give a shit about you**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raginggam0r&layout=compact&hide=html" alt="raginggam0r" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raginggam0r&show_icons=true" alt="raginggam0r" /></p>
+
