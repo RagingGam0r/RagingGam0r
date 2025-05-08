@@ -1,1 +1,2 @@
-How to reach me Discord:**RagingGam0r**
+How to reach me?
+- Discord:**RagingGam0r**
